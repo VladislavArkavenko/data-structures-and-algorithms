@@ -3,4 +3,5 @@ project(data-structures-and-algorithms C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(data-structures-and-algorithms recursion.c)
+add_executable(data-structures-and-algorithms-recursion recursion.c)
+add_executable(data-structures-and-algorithms-arrays arrays.c)
